@@ -13,3 +13,9 @@ java.runtime.version=17
 3. Subir el proyecto desde Intellij IDEA desde la opción Git Share project con github
 4. Desde Heroku, crear app y elegir el método Github y buscar el repositorio subido.
 5. Habilitar deploy automático y ejecutar Deploy.
+
+## Proveedores 
+
+* Heroku -- Java, Spring, PostgreSQL
+* Netfly -- Fronted (React, Angular...)
+* Vercel -- Fronted (React, Angular...)
